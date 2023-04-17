@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Offer_29__Print_Matrix_Clockwise",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Offer_29__Print_Matrix_Clockwise::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Offer_29__Print_Matrix_Clockwise-Debug-51d578bf44ed47d93df4.json",
+					"name" : "Offer_29__Print_Matrix_Clockwise",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/leetcode/clion/Offer 29. Print Matrix Clockwise/cmake-build-debug",
+		"source" : "D:/leetcode/clion/Offer 29. Print Matrix Clockwise"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

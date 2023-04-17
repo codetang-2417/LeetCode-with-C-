@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "19__Remove_Nth_Node_From_End_of_List",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "19__Remove_Nth_Node_From_End_of_List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-19__Remove_Nth_Node_From_End_of_List-Debug-5fdeea336b511dfd78ad.json",
+					"name" : "19__Remove_Nth_Node_From_End_of_List",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/leetcode/clion/19. Remove Nth Node From End of List/cmake-build-debug",
+		"source" : "D:/leetcode/clion/19. Remove Nth Node From End of List"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
