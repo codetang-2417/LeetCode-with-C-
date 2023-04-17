@@ -1,3 +1,0 @@
-D:/leetcode/clion/844. Backspace String Compare/cmake-build-debug/CMakeFiles/844__Backspace_String_Compare.dir
-D:/leetcode/clion/844. Backspace String Compare/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/leetcode/clion/844. Backspace String Compare/cmake-build-debug/CMakeFiles/rebuild_cache.dir

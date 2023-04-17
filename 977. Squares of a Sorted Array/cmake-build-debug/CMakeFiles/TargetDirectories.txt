@@ -1,3 +1,0 @@
-D:/leetcode/clion/977. Squares of a Sorted Array/cmake-build-debug/CMakeFiles/977__Squares_of_a_Sorted_Array.dir
-D:/leetcode/clion/977. Squares of a Sorted Array/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/leetcode/clion/977. Squares of a Sorted Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

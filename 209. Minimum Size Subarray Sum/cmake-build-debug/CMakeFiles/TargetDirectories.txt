@@ -1,3 +1,0 @@
-D:/leetcode/clion/209. Minimum Size Subarray Sum/cmake-build-debug/CMakeFiles/209__Minimum_Size_Subarray_Sum.dir
-D:/leetcode/clion/209. Minimum Size Subarray Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/leetcode/clion/209. Minimum Size Subarray Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

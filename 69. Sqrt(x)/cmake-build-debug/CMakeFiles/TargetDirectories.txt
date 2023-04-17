@@ -1,3 +1,0 @@
-D:/leetcode/clion/69/cmake-build-debug/CMakeFiles/69.dir
-D:/leetcode/clion/69/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/leetcode/clion/69/cmake-build-debug/CMakeFiles/rebuild_cache.dir

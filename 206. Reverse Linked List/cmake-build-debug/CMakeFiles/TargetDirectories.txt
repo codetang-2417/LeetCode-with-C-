@@ -1,3 +1,0 @@
-D:/leetcode/clion/206. Reverse Linked List/cmake-build-debug/CMakeFiles/206__Reverse_Linked_List.dir
-D:/leetcode/clion/206. Reverse Linked List/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/leetcode/clion/206. Reverse Linked List/cmake-build-debug/CMakeFiles/rebuild_cache.dir
