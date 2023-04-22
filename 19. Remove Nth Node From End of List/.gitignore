@@ -1,0 +1,7 @@
+cmake-build-debug/*
+cmake-build-release/*
+.idea/*### Example user template template
+### Example user template
+
+# IntelliJ project file
+.idea/*
