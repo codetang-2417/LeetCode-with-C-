@@ -1,0 +1,4 @@
+### my ignore template
+cmake-build-debug/*
+cmake-build-release/*
+.idea/*

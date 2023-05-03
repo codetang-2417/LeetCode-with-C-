@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(1047__Remove_All_Adjacent_Duplicates_In_String)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(1047__Remove_All_Adjacent_Duplicates_In_String main.cpp)
