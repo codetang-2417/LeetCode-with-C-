@@ -22,6 +22,8 @@ public:
     }
 };
 
+
+
 int main() {
     vector<int> array = {-1,1,2,7,9,78};
     Solution slo;
