@@ -6,6 +6,20 @@ using std::vector;
 /**
  * leetcode：283. 移动零
  */
+
+/*class Solution {
+public:
+    void moveZeroes(vector<int>& nums) {
+        int fast=0,slow=0;
+        while(fast < nums.size()){
+            if(nums[fast]!=0){
+                std::swap(nums[slow++] , nums[fast]); // 这里的元素会重复，所以不能用亦或来交换，两个指针指向相同的变量时，不能用亦或来交换。
+            }
+            fast++;
+        }
+    }
+};*/
+
 class Solution {
 public:
     void moveZeroes(vector<int> &nums) {

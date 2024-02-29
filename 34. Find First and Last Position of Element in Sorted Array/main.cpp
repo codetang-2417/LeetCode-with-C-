@@ -15,7 +15,7 @@ public:
         while (l <= r) {
             mid = l + ((r - l) >> 1);
             if (nums[mid] < target || (lower && nums[mid] <= target)) {//左边界,右边界
-                l = mid + 1;//左指针右移
+                l = mid + 1;//左指针右移，求右边界
                 res = mid;
             } else {
                 r = mid - 1;

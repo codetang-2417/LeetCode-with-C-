@@ -30,10 +30,32 @@ public:
     }
 };
 
-int main() {
-    vector<int> case1 = {0,1,2,2};
-    Solution sol;
+class Solution1 {
+public:
+    int totalFruit(vector<int>& fruits) {
+        int fast_index=0,slow_index=0,ret=0,temp;
+        std::unordered_map<int,int> baskets;
 
-    std::cout << sol.totalFruit(case1) << std::endl;
+        while(slow_index < fruits.size()){
+            baskets[fruits[fast_index++]]++;// 自动初始化为0
+            while(baskets.size()>2){
+                baskets[fruits[slow_index]]--;
+                if(baskets[fruits[slow_index]]==0)
+                    baskets.erase(fruits[slow_index]);
+                slow_index++;
+            }
+            temp = fast_index-slow_index;
+            ret = ret>temp?ret:temp;
+        }
+        return ret;
+    }
+};
+
+int main() {
+    vector<int> case1 = {1,0,1,4,1,4,1,2,3};
+    Solution sol;
+    Solution1 sol1;
+
+    std::cout << sol1.totalFruit(case1) << std::endl;
     return 0;
 }
